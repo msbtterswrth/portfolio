@@ -1,6 +1,7 @@
 # Case Study: Authenticated Design Patterns at VA.gov
 
 Role: Senior Product Manager
+
 Organization: Department of Veterans Affairs (VA) / Agilesix
 
 ## Executive Summary
@@ -35,4 +36,4 @@ Working on authenticated design patterns at VA.gov reinforced the importance of 
 
 -- 
 
-Skills Highlighted: Human-Centered Design · Agile Product Management · Civic Technology · CMS Platforms · Design System Governance · Accessibility (508/WCAG) · Cross-Functional Collaboration · Executive Stakeholder Management · Prototyping · Research Synthesis · Digital Strategy
+**Skills Highlighted:** Human-Centered Design · Agile Product Management · Civic Technology · CMS Platforms · Design System Governance · Accessibility (508/WCAG) · Cross-Functional Collaboration · Executive Stakeholder Management · Prototyping · Research Synthesis · Digital Strategy
